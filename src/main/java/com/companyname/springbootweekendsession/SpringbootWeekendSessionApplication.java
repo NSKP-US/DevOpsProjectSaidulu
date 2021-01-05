@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan(basePackages= {"com.companyname.controller"})
 public class SpringbootWeekendSessionApplication {
 	
-
+// Added new line
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootWeekendSessionApplication.class, args);
 	}
